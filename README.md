@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SPA Experiment – React + Vite
 
 ## Objective
@@ -49,3 +50,6 @@ After completing this experiment, I learned:
 
 ## Conclusion
 This experiment helped in understanding modern frontend development using React and the advantages of Single Page Applications over traditional multi-page websites.
+=======
+# FSD-2
+>>>>>>> a4c9ed9ca337b61edf1feab97a9451036d24b035
